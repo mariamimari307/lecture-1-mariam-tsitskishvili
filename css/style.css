@@ -1,0 +1,50 @@
+.container {
+    margin: 0 auto;
+    max-width: 1400px;
+    width: 100%;
+}
+.a1 {
+    margin-left: 680px;
+}
+.a2 {
+    margin-left: 40px;
+}
+a {
+    color: #a667b3;
+    font-size: 25px;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 60px;
+    margin-left: 560px;
+    color: rgb(189, 134, 203);
+    margin-bottom: 40px;
+}
+.head {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+p {
+    font-size: 22px;
+    max-width: 850px;
+    color: #7e3e8d;
+    margin-left: 350px;
+    margin-bottom: 30px;
+}
+body {
+    background-color: rgb(252, 255, 244);
+}
+img {
+    width: 960px;
+    margin-left: 300px;
+}
+.web {
+    font-size: 22px;
+    max-width: 850px;
+    color: #380343;
+    margin-left: 350px;
+    margin-bottom: 50px;
+}
+.aimg {
+    margin-top: 30px;
+}
